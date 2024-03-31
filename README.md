@@ -1,0 +1,1 @@
+# digimap-react-python-image-stitching
